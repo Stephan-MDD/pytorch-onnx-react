@@ -1,0 +1,3 @@
+# PyTorch MNIST Client
+
+-   theme
